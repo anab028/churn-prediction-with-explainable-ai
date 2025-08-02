@@ -56,10 +56,16 @@ Customer churn is a major concern for subscription-based businesses. This projec
 ## 🔍 SHAP Visualization
 
 <p align="center">
-  <img src="images/shap_summary.png" alt="SHAP Summary Plot" width="600"/>
+  <img src="shap_summary.png" alt="SHAP Summary Plot" width="600"/>
+</p>
+
+## 🔍 APP Visualization
+
+<p align="center">
+  <img src="app.png" alt="SHAP Summary Plot" width="600"/>
 </p>
 
 ---
 
-## 📂 Project Structure
+
 
