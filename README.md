@@ -7,7 +7,7 @@ This project predicts whether a customer is likely to churn using machine learni
 
 ## 🚀 Live Demo
 
-🌐 [Launch the App]([https://your-streamlit-link-here](https://churn-prediction-with-explainable-ai-hnkr5odzsqfkadua39xujq.streamlit.app/))  
+[Launch the App](https://churn-prediction-with-explainable-ai-hnkr5odzsqfkadua39xujq.streamlit.app/)
 
 
 ---
